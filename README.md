@@ -1,4 +1,3 @@
-# Mutual-Fund-Returns-Prediction-Model
 # Mutual Fund Returns Prediction Model
 
 ## Overview
